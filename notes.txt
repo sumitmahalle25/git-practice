@@ -1,1 +1,7 @@
 My first Git project
+
+Today I learned:
+- git init
+- git status
+- git add
+- git commit
